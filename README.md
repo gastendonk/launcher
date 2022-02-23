@@ -1,5 +1,6 @@
-# launcher
-Eclipse Launcher problem, Buildship/Gradle
+# Eclipse Launcher Problem
+
+using Gradle/Buildship
 
 <img src="launch1-app/launcher.png">
 
